@@ -2,11 +2,11 @@ package security.provenance
 
 import rego.v1
 
-# [***REMOVED***]
-approved_owner_ids := {"5726618"}
+# [ianhundere]
+approved_owner_ids := {"138915"}
 
-# [demo-gh-autogov-workflows, demo-gh-autogov-caller-workflow]
-approved_repo_ids := {"845521085", "849445664", "880495339"}
+# [tag-autogov-github-attest-rw]
+approved_repo_ids := {"887632894"}
 
 default allow := false
 

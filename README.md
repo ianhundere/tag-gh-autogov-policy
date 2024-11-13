@@ -104,7 +104,7 @@ We now have a list of objects as the parsed payload.
     "_type": "https://in-toto.io/Statement/v1",
     "subject": [
       {
-        "name": "ghcr.io/***REMOVED***/demo-gh-autogov-workflows",
+        "name": "ghcr.io/ianhundere/tag-automated-governance-github-attestations-beta-ian-testing",
         "digest": {
           "sha256": "d379d8ef02ef446dc22e57e845ac7f3e5053b9398475541a8530d707511e6264"
         }
@@ -117,7 +117,7 @@ We now have a list of objects as the parsed payload.
     "_type": "https://in-toto.io/Statement/v1",
     "subject": [
       {
-        "name": "ghcr.io/***REMOVED***/demo-gh-autogov-workflows",
+        "name": "ghcr.io/ianhundere/tag-automated-governance-github-attestations-beta-ian-testing",
         "digest": {
           "sha256": "d379d8ef02ef446dc22e57e845ac7f3e5053b9398475541a8530d707511e6264"
         }
